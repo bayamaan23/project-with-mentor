@@ -247,3 +247,4 @@ pref.addEventListener("click", () => {
   currentPage--;
   getProducts();
 });
+console.log('new branch');
